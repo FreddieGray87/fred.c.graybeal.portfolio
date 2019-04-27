@@ -11,7 +11,7 @@
 
 ## Portfolio Screenshot
 ![Fred's Portfolio](src/assets/portfolio_screenshot.jpg.png)
-Format: ![ScreenShot]()
+
 
 ## Build Setup
 
