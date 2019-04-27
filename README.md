@@ -10,8 +10,8 @@
 * colour palette inspitation: https://www.colourlovers.com/palette/92095/Giant_Goldfish
 
 ## Portfolio Screenshot
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Fred's Portfolio](src/assets/portfolio_screenshot.jpg.png)
+Format: ![ScreenShot]()
 
 ## Build Setup
 
