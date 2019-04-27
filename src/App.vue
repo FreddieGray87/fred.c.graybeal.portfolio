@@ -27,7 +27,7 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
           </li>
-         </ul>
+      </ul>
       </div>
     </nav>
 
@@ -217,7 +217,7 @@ export default {
       lastName: 'Graybeal',
       address: 'Balitmore MD · (443) 307-5063 ·',
       email: 'fred.c.graybeal@gmail.com',
-      aboutMe: 'I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.',
+      aboutMe: 'Aspiring Web developer. Always learning, always building.',
       experience: [
         {
           position: ' Web Developer',
