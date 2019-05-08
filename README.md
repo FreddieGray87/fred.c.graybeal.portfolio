@@ -9,6 +9,10 @@
 
 * colour palette inspitation: https://www.colourlovers.com/palette/92095/Giant_Goldfish
 
+## Portfolio Screenshot
+![Fred's Portfolio](src/assets/portfolio_screenshot.jpg.png)
+
+
 ## Build Setup
 
 ``` bash
