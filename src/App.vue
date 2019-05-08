@@ -144,37 +144,21 @@
 
           <div class="subheading mb-3">Programming Languages &amp; Tools</div>
           <ul class="list-inline list-icons">
-            <li class="list-inline-item">
+            <li class="list-inline-item" title="HTML5">
               <i class="devicons devicons-html5"></i>
             </li>
-            <li class="list-inline-item">
+            <li class="list-inline-item" title="CSS3">
               <i class="devicons devicons-css3"></i>
             </li>
-            <li class="list-inline-item">
+            <li class="list-inline-item" title="JavaScript">
               <i class="devicons devicons-javascript"></i>
             </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-jquery"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-sass"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-less"></i>
-            </li>
-            <li class="list-inline-item">
+           <li class="list-inline-item" title="BootStrap">
               <i class="devicons devicons-bootstrap"></i>
             </li>
-            <li class="list-inline-item">
+            <li class="list-inline-item" title="WordPress">
               <i class="devicons devicons-wordpress"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-grunt"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicons devicons-gulp"></i>
-            </li>
-            <li class="list-inline-item">
+           <li class="list-inline-item" title="NPM">
               <i class="devicons devicons-npm"></i>
             </li>
           </ul>
@@ -186,14 +170,8 @@
               Mobile-First, Responsive Design</li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Cross Browser Testing &amp; Debugging</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Cross Functional Teams</li>
-            <li>
-              <i class="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum</li>
-          </ul>
+              Chrome Browser Tools &amp; Debugging</li>
+      </ul>
         </div>
       </section>
 
@@ -217,36 +195,22 @@ export default {
       lastName: 'Graybeal',
       address: 'Balitmore MD · (443) 307-5063 ·',
       email: 'fred.c.graybeal@gmail.com',
-      aboutMe: 'Aspiring Web developer. Always learning, always building.',
+      aboutMe: 'Junior Web developer. Always learning, always building.',
       experience: [
         {
-          position: ' Web Developer',
-          company: 'Intelitec Solutions',
-          description: 'Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.',
-          startDate: 'March 2013',
+          position: 'Student',
+          company: 'Betamore Academy',
+          description: 'I learned how to build a database driven web application from scratch using JavaScript and Node.js The course offered a thorough walk-thru of developing a full stack web application from databases to object-oriented programming in JavaScript with Express.js and Vue.js.',
+          startDate: 'June 2018',
+          endDate: 'August 2018'
+        },
+        {
+          position: 'Student',
+          company: 'TeamTreeHouse',
+          description: 'Completed Front End Web Development course which included learning fundamentals of HTML, CSS, and JavaScript. Completed HTML email Design Course learned how to build a full-featured mobile friendly emails from scratch.',
+          startDate: 'June 2018',
           endDate: 'Present'
         },
-        {
-          position: 'Web Developer',
-          company: 'Intelitec Solutions',
-          description: 'Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.',
-          startDate: 'December 2011',
-          endDate: 'March 2013'
-        },
-        {
-          position: 'Junior Web Designer',
-          company: 'Shout! Media Productions',
-          description: 'Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.',
-          startDate: 'July 2010',
-          endDate: 'December 2011'
-        },
-        {
-          position: 'Web Design Intern',
-          company: 'Shout! Media Productions',
-          description: 'Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.',
-          startDate: 'September 2008',
-          endDate: 'June 2010'
-        }
       ]
     }
   },
